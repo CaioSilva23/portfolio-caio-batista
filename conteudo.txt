@@ -1,0 +1,149 @@
+# Caio Batista  
+### Desenvolvedor Sênior | Backend / Full Stack | Python • Cloud • Microsserviços
+
+📍 Rio de Janeiro – RJ  
+🔗 [LinkedIn](https://www.linkedin.com/in/caiosilva97/)  
+💻 [GitHub](https://github.com/CaioSilva23)  
+📧 caio.batista97@outlook.com  
+
+---
+
+## 👋 Sobre Mim
+
+Sou desenvolvedor **Full Stack Sênior** com mais de **6 anos de experiência**, especializado em **Python**, **arquitetura de microsserviços** e **ambientes cloud (AWS)**.  
+Atuei em projetos corporativos de grande escala, modernização de sistemas legados e soluções orientadas a dados e performance.
+
+Minha trajetória inclui experiências em ambientes críticos e regulados, como **Petrobras**, **Exército Brasileiro** e grandes empresas de tecnologia, o que me proporcionou uma base sólida em **liderança, disciplina, arquitetura de software e tomada de decisão técnica**.
+
+---
+
+## 🧠 Stack Técnica
+
+### Backend
+- Python (Django, Flask, FastAPI)
+- APIs REST
+- Celery, RabbitMQ, Redis
+
+### Frontend
+- React.js
+- Vue.js
+- TypeScript, JavaScript
+- Material UI
+
+### Cloud & Infra
+- AWS (EC2, S3, SQS, RDS, API Gateway)
+- Docker
+- Kubernetes
+- CI/CD, Jenkins
+
+### Arquitetura & Boas Práticas
+- Microsserviços
+- Clean Architecture
+- SOLID
+- Testes unitários (Jest)
+- Sistemas Distribuídos
+
+---
+
+## 💼 Experiência Profissional
+
+### 🚀 Compass UOL — Desenvolvedor Backend Sênior  
+**São Paulo – SP | 10/2025 – Atual**
+
+- Atuação em projeto de **modernização de sistema corporativo legado**
+- Migração de monólito em **Delphi 7 + Oracle PL/SQL** para **arquitetura de microsserviços**
+- Stack: **Python, FastAPI, Next.js e AWS**
+- Participação ativa em decisões arquiteturais e estratégias de migração
+
+---
+
+### 🛢️ Morning Star — Analista de Sistemas Sênior  
+**Rio de Janeiro – RJ | 10/2024 – 10/2025**
+
+- Desenvolvimento de soluções para **análise e otimização de perfuração de poços petrolíferos**
+- Integração de dados corporativos com **algoritmos de Machine Learning**
+- Tecnologias: Python, Django, TypeScript, Vue.js, RabbitMQ, PostgreSQL, Redis, Kubernetes e AWS
+- Liderança técnica na organização de projetos, documentação e processos do time
+
+---
+
+### ⚡ Fattureweb — Desenvolvedor Full Stack  
+**São Paulo – SP | 06/2023 – 10/2024**
+
+- Desenvolvimento de aplicações para **gestão de faturas de energia elétrica, água e esgoto**
+- Foco em **performance, escalabilidade e confiabilidade**
+- Stack: Python (Tornado, Django), React.js, TypeScript, Celery, RabbitMQ, PostgreSQL, Docker e AWS
+- Manutenção e evolução contínua de serviços críticos
+
+---
+
+### 🎖️ Exército Brasileiro — Desenvolvedor  
+**Rio de Janeiro – RJ | 03/2016 – 02/2024**
+
+- Atuação no ciclo completo de desenvolvimento de software
+- Desenvolvimento de sistemas para **gestão de licitações e controle de empenhos**
+- Tecnologias: Python (Django, Flask), React.js, PostgreSQL e Docker
+- Forte desenvolvimento de habilidades em **liderança, organização e trabalho em equipe**
+
+---
+
+## 🧪 Projetos
+
+> Alguns projetos representativos do meu perfil técnico:
+
+### 🔹 Plataforma de Microsserviços com Mensageria
+- Arquitetura baseada em **RabbitMQ**
+- Comunicação assíncrona entre serviços
+- Stack: Python, FastAPI, Docker
+- 🔗 GitHub: *em breve*
+
+### 🔹 API Gateway com AWS
+- Orquestração de serviços backend
+- Integração com **AWS API Gateway + ECS**
+- Foco em segurança e escalabilidade
+
+### 🔹 Aplicação com IA e RAG
+- Uso de IA generativa com **Retrieval-Augmented Generation**
+- Correlação de eventos e histórico de dados
+- Aplicação prática em cenários corporativos
+
+---
+
+## 🎓 Formação Acadêmica
+
+### 🎓 MBA em Engenharia de Software  
+**USP / ESALQ** — *04/2024 – 12/2025*  
+- Liderança
+- Arquitetura de Software
+- DevOps
+- Qualidade e Segurança da Informação
+- Métodos Ágeis
+
+### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+**UNICARIOCA** — *01/2019 – 12/2021*
+
+---
+
+## 📜 Certificações
+
+- Python
+- Django e Django Rest Framework
+- Full JavaScript
+- React.js
+- Vue.js
+- Docker
+- Fundamentos de Data Science e Inteligência Artificial
+- Redes Neurais Artificiais em Python
+- Gestão Ágil de Projetos
+
+---
+
+## 📬 Contato
+
+📧 **Email:** caio.batista97@outlook.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/caiosilva97/  
+💻 **GitHub:** https://github.com/CaioSilva23  
+
+---
+
+> “Construo software escalável, sustentável e orientado a negócio.”

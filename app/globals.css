@@ -1,0 +1,167 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --foreground-rgb: 15, 23, 42;
+  --background-start-rgb: 255, 255, 255;
+  --background-end-rgb: 248, 250, 252;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-start-rgb));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.011em;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Animações aprimoradas */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes gradient-shift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-slide-up {
+  animation: slide-up 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-slide-up-delay {
+  animation: slide-up 1s cubic-bezier(0.16, 1, 0.3, 1) 0.15s both;
+}
+
+.animate-fade-in-delay {
+  animation: fade-in 1s cubic-bezier(0.16, 1, 0.3, 1) 0.3s both;
+}
+
+.animate-fade-in-delay-2 {
+  animation: fade-in 1s cubic-bezier(0.16, 1, 0.3, 1) 0.45s both;
+}
+
+.animate-slide-in-left {
+  animation: slide-in-left 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.animate-scale-in {
+  animation: scale-in 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Gradient animado */
+.gradient-bg {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-size: 200% 200%;
+  animation: gradient-shift 15s ease infinite;
+}
+
+/* Efeitos de hover sofisticados */
+.card-hover {
+  transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -12px rgba(0, 0, 0, 0.08);
+}
+
+/* Linha decorativa animada */
+.underline-animated {
+  position: relative;
+  display: inline-block;
+}
+
+.underline-animated::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: currentColor;
+  transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.underline-animated:hover::after {
+  width: 100%;
+}
+
+/* Scrollbar customizada */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
