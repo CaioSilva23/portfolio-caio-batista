@@ -127,7 +127,7 @@ export default function Hero() {
                     </svg>
                   </div>
                   <div>
-                    <div className="text-2xl font-bold text-slate-900">6+</div>
+                    <div className="text-2xl font-bold text-slate-900">7+</div>
                     <div className="text-xs text-slate-500 font-medium">Anos Exp.</div>
                   </div>
                 </div>

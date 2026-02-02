@@ -78,7 +78,7 @@ export default function Experience() {
           Experiência Profissional
         </h2>
         <p className="text-lg text-slate-600 mb-12 max-w-2xl animate-fade-in-delay">
-          Mais de 6 anos construindo soluções para empresas de diversos setores
+          Mais de 7 anos construindo soluções para empresas de diversos setores
         </p>
 
         {/* Timeline */}

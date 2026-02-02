@@ -29,7 +29,7 @@ export default function About() {
           {/* Left Column - Text Content */}
           <div className="space-y-6 animate-fade-in-delay">
             <p className="text-lg text-slate-600 leading-relaxed">
-              Sou desenvolvedor <strong className="text-slate-900 font-semibold">Full Stack Sênior</strong> com mais de <strong className="text-slate-900 font-semibold">6 anos de experiência</strong>, especializado em <strong className="text-slate-900 font-semibold">Python</strong>, <strong className="text-slate-900 font-semibold">arquitetura de microsserviços</strong> e <strong className="text-slate-900 font-semibold">ambientes cloud (AWS)</strong>.
+              Sou desenvolvedor <strong className="text-slate-900 font-semibold">Full Stack Sênior</strong> com mais de <strong className="text-slate-900 font-semibold">7 anos de experiência</strong>, especializado em <strong className="text-slate-900 font-semibold">Python</strong>, <strong className="text-slate-900 font-semibold">arquitetura de microsserviços</strong> e <strong className="text-slate-900 font-semibold">ambientes cloud (AWS)</strong>.
             </p>
             <p className="text-lg text-slate-600 leading-relaxed">
               Possuo <strong className="text-slate-900 font-semibold">MBA em Engenharia de Software pela USP/ESALQ</strong>, com foco em Liderança, Arquitetura de Software, DevOps, Qualidade e Segurança da Informação e Métodos Ágeis.
@@ -48,7 +48,7 @@ export default function About() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-2">6+ Anos</h3>
+              <h3 className="text-xl font-bold text-slate-900 mb-2">7+ Anos</h3>
               <p className="text-slate-600 text-sm">De experiência em desenvolvimento</p>
             </div>
 

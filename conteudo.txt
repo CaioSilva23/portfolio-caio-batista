@@ -10,7 +10,7 @@
 
 ## 👋 Sobre Mim
 
-Sou desenvolvedor **Full Stack Sênior** com mais de **6 anos de experiência**, especializado em **Python**, **arquitetura de microsserviços** e **ambientes cloud (AWS)**.  
+Sou desenvolvedor **Full Stack Sênior** com mais de **7 anos de experiência**, especializado em **Python**, **arquitetura de microsserviços** e **ambientes cloud (AWS)**.  
 Atuei em projetos corporativos de grande escala, modernização de sistemas legados e soluções orientadas a dados e performance.
 
 Minha trajetória inclui experiências em ambientes críticos e regulados, como **Petrobras**, **Exército Brasileiro** e grandes empresas de tecnologia, o que me proporcionou uma base sólida em **liderança, disciplina, arquitetura de software e tomada de decisão técnica**.
